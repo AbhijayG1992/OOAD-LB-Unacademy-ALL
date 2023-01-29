@@ -1,8 +1,11 @@
 <h2> OOPS Concepts - Part 1 </h2>
 
-
 <h1> Introduction </h1>
+
 Not covering normal OOPS covered in Codehelp youtube channel 
+
+Studying OOAD Object Oriented Design ...... Low Level Design ..Implementation Based ..
+.... Which Classes to use etc 
 
 ## Studying OOPS 
 ### This class is revise class
@@ -19,11 +22,15 @@ Not covering normal OOPS covered in Codehelp youtube channel
 
 
 We are studying to crack interviews.
-Machine coding round for 120 min included in most companies Eg. Flipkart 
+Machine coding round for 120 min included in most companies like startups
+
+Eg. Flipkart have Machine round 
+
 In future it will be across major companies.
 
-SDE 1 expected to write code .
+[ SDE 1 expected to write code.]
 
+Not system design is expected.
 Task is given , engineer to implement task using best coding practices and design principles .
 Efficient code , bug free etc expected 
 
