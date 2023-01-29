@@ -34,6 +34,8 @@ Not system design is expected.
 Task is given , engineer to implement task using best coding practices and design principles .
 Efficient code , bug free etc expected 
 
+Course is for SDE 1 and SDE 2 
+Course is not for SDE 3 
 
 ## How to study this course ?
 
